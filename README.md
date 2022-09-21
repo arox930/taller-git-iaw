@@ -32,6 +32,10 @@ Referencias:
 
 [IES Celia Viñas](https://iescelia.org/web/)
 
+![](https://www.diariodealmeria.es/2020/11/16/almeria/IES-Celia-Vinas-Bachillerato-Internacional_1520258232_128190082_1200x675.jpg)
+
+[![](https://www.diariodealmeria.es/2020/11/16/almeria/IES-Celia-Vinas-Bachillerato-Internacional_1520258232_128190082_1200x675.jpg)](https://iescelia.org/web/)
+
 ## Encabezado h2
 hola hola
 
